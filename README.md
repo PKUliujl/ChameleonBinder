@@ -1,5 +1,5 @@
 # ChameleonBinder
-ChameleonBinder is a method for designing small-molecule protein binders. It uses pseudo-Val residues to place ligands more precisely into binding pockets and converges within three iterative rounds of ligand-conditioned protein sequence design and structure prediction.
+ChameleonBinder is a method for designing small-molecule protein binders. It uses pseudo-Val residues to place ligands more precisely into binding pockets and converges with three iterative rounds of ligand-conditioned protein sequence design and structure prediction.
 
 ChameleonBinder depends on the following tools:
 
