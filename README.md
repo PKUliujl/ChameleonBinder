@@ -12,7 +12,7 @@ Please follow the installation instructions for each tool before running Chamele
 ## Workflow
 
 1. Prepare the ligand conformation from an external source, such as the PDB, or generate it with RDKit using the command below:
-`python smile2sdf.py`
+`python smiles2sdf.py --ligand smiles --output my.sdf` `obabel -isdf my.sdf -O my.mol2`
 
 2. Dock the ligand against the scaffold library using the script
 `bash batchdock.sh`
