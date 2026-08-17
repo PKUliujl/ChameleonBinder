@@ -22,4 +22,4 @@ Please follow the installation instructions for each tool before running Chamele
 
 4. Perform sequence design with LigandMPNN using the default parameters, then run structure prediction with AlphaFold3 as described in the manuscript.
 
-5. Iterate until self-consistency is achieved.
+5. Iterations to achieve self-consistency.
